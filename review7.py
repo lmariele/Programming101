@@ -10,6 +10,8 @@ def manipulateArray(myArray):
     myArray[0] = 'B'
     print(str(myArray))
 
+
+
 manipulateAString("ABC")
 tisAnArray = ['A', 'B', 'C']
 manipulateArray(tisAnArray)
